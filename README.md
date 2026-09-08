@@ -1,0 +1,1 @@
+# tradutorgame.py
